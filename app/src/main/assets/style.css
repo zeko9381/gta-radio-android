@@ -1,0 +1,32 @@
+.carousel-img {
+  height: 30vh;
+}
+
+#coverFlow {
+  width: 100vw;
+}
+
+#trackName {
+  text-align: center;
+  margin: 0 10px 0 10px;
+  position: absolute;
+  top: 15vh;
+}
+
+#play {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  transform: translateX(-50%);
+  bottom: 5vh;
+  height: 20vh;
+  cursor: pointer;
+}
+
+body {
+  background-color: #3e3e3e;
+}
+
+h1 {
+  color: #dfdfdf;
+}
